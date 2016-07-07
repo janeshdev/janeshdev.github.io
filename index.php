@@ -35,7 +35,7 @@ include 'header.php';
 		  <div class="col-sm-4">
 				  <h3>Books Already Read</h3>
 				  <li> Rich dad poor dad </li>
-              <li>The Alchemist <a href="thealchemist.html">Summary of the Alchemist</a></li>
+              <li>The Alchemist <a href="thealchemist.php">Summary of the Alchemist</a></li>
                     <li> Mens are from Mars, Women are from Venus</li>
               <li> The Fountainhead by Ayn Rand <a href = "thefountainhead.html"> A quick summary of The fountainhead </a> </li>
 				  
